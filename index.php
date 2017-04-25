@@ -2,7 +2,7 @@
 <html>
 <?php include("dbvar.php"); ?>
 <head>
-	< title>CSCI 466</title>
+	<title>CSCI 466</title>
 	<link rel="stylesheet" type="text/css" href="style/style.css" />
 </head>
 
